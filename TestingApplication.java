@@ -1,3 +1,4 @@
+task java
 package com.amigoscode.testing;
 
 import org.springframework.boot.SpringApplication;
